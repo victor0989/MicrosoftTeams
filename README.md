@@ -1,6 +1,7 @@
 # MicrosoftTeams
 Proyecto_Microsoft_teams
 
+# Clone the project & go to the file
 git clone https://github.com/victor0989/MicrosoftTeams.git
 cd MicrosoftTeams
 npm install
