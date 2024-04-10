@@ -3,6 +3,8 @@ Proyecto_Microsoft_teams
 
 # Clone the project & go to the file
 git clone https://github.com/victor0989/MicrosoftTeams.git
+
+# Terminal 
 cd MicrosoftTeams
 npm install
 npx playwright test
